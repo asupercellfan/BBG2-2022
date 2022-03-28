@@ -1,0 +1,2 @@
+
+Ödev 1. Verilen herhangi bir cümlenin (karakter dizisinin) içerisinde olan sayıların (sadece tam sayılar olduğunu varsayalım) toplamını hesaplayan program yazınız. Örneğin, “Ben 2003 senesinde doğdum. Şimdi 19 yaşım var.” karakter dizisi için cevap 2022 olacaktır.
